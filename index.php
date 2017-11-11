@@ -3,6 +3,6 @@
   <title>Test PHP</title>
  </head>
  <body>
- <?php echo '<p>Heroku_Test/p>'; ?>
+ <?php echo 'Hello all, this is a new test'; ?>
  </body>
 </html>
